@@ -11,9 +11,6 @@ booktitle = {{EMNLP}},
 year = 2018}
 ```
 
-# Running LR-Implict
-TODO 
-
 # Code to replicate experiments in the paper
 
 ### Setting up Yelp dataset 
