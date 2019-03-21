@@ -1,6 +1,8 @@
 # doc_prevalence
 
-Code to accompany the paper [Keith and O'Connor. "Uncertainty-aware generative models for inferring document class prevalence." EMNLP, 2018.](http://slanglab.cs.umass.edu/doc_prevalence/)
+Code to accompany the paper: Keith and O'Connor. "Uncertainty-aware generative models for inferring document class prevalence." EMNLP, 2018.
+
+For more information, see the [research project's website](http://slanglab.cs.umass.edu/doc_prevalence/).  If you would like to use our model in your own work, we suggest our **[freq-e](https://github.com/slanglab/freq-e)** software package.
 
 If you use this code please cite the paper: 
 ```
